@@ -1,4 +1,4 @@
-# Transmilenio Chatbot using LLM
+# Transmilenio Chatbot using LLM 🚌
 
 Welcome to the Transmilenio Chatbot project! This repository contains the code and documentation for building a conversational chatbot that helps users navigate and inquire about the Transmilenio public transportation system in Bogotá, Colombia. The chatbot is powered by a Large Language Model (LLM), providing accurate, real-time, and conversational responses to various user queries.
 
